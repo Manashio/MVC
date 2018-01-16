@@ -12,7 +12,4 @@ Route::set('contact-us', function() {
 	ContactUs::CreateView('ContactUs');
 });
 
-
-
-
 ?>
